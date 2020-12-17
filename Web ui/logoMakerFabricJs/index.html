@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|PT+Serif" rel="stylesheet">
+
+    <link rel="stylesheet" href="CSS/bootstrap.min.css" />
+    <link rel="stylesheet" href="CSS/font-awesome.min.css" />
+    <link rel="stylesheet" href="CSS/animate.css" />
+    <link rel="stylesheet" href="CSS/responsive.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Logo maker</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+<div class="nav" >
+    <div class="row fileControl">
+        <div class="col-lg-3 logo"><p>LOGO MAKER PRO</p></div>
+        <div class="col-lg-5 ">
+            <button class="btn btn-default " id="undo" value="undo"><i class="fa fa-undo "></i>Undo</button>
+            <button class="btn btn-default redo" id="redo" value="redo"><i class="fa fa-repeat "></i>Redo</button>
+            
+                
+                <button class="box-BGcolor"></button>
+                <div class="UIColorBox">
+                    <div class="row">
+                       <div class="col-lg-4"> <div class="box" style="background-color:red"></div></div>
+                       <div class="col-lg-4"> <div class="box" style="background-color:blue"></div></div>
+                       <div class="col-lg-4"> <div class="box" style="background-color:yellow"></div></div>
+                    </div>
+                    <div class="row">
+                            <div class="col-lg-4"> <div class="box" style="background-color:green"></div></div>
+                            <div class="col-lg-4"> <div class="box" style="background-color:black"></div></div>
+                            <div class="col-lg-4"> <div class="box" style="background-color:grey"></div></div>
+                         </div>
+                         <div class="row">
+                                <div class="col-lg-4"> <div class="box" style="background-color:white"></div></div>
+                                <div class="col-lg-4"> <div class="box" style="background-color:violet"></div></div>
+                                <div class="col-lg-4"> <div class="box" style="background-color:orange"></div></div>
+                             </div>
+                </div>
+            
+        </div>
+        <div class="col-lg-4">
+                <button class="btn btn-default"><i class="fa fa-file-o" id="new"></i>New</button>
+                <button class="btn btn-default"><i class="fa fa-floppy-o"></i>Save</button>
+                <button class="btn btn-primary"><i class="fa fa-download" id="saveImg" style="padding-right:0;"></i></button>
+                
+        </div>
+    </div>
+</div>
+<section id="editor">
+<div class="canvas-wrapper">
+        <canvas id="myCanvas" class="can"></canvas>
+</div>
+<div class="text tool-box">
+    
+    <label>Text</label><input class="textInput form-control" type="text" name="text" />
+    <button class="btn btn-default subIn">enter</button>
+    <br>
+    <label>Font-Size</label>
+    <select id="fontSize" class="form-control">
+            <option val="22">22</option>
+            <option val="28">28</option>
+            <option val="34">34</option>
+            <option val="40">40</option>
+            <option val="45">45</option>
+            <option val="50">50</option>
+            <option val="55">55</option>
+    </select>
+    <label>Select Font:</label>
+    <select name="FontStyleNumber" id="FontStyleNumber" class="form-control">
+        <option value="Times New Roman">Times New Roman</option>
+        <option value="Arial">Arial</option>
+        <option value="Georgia">Georgia</option>
+        <option value="Hammersmith One">Hammersmith One</option>
+        <option value="Pacifico">Pacifico</option>
+        <option value="Anton">Anton</option>
+        <option value="Sigmar One">Sigmar One</option>
+        <option value="Righteous">Righteous</option>
+    </select>
+</div>
+<div class="symbol tool-box">
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol1.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol2.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol3.png" class="img-responsive"/></div>
+        </div>
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol4.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol5.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol6.png" class="img-responsive"/></div>
+        </div>
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol7.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol8.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol9.png" class="img-responsive"/></div>
+        </div>
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol10.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol11.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol12.jpg" class="img-responsive"/></div>
+        </div>
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol13.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol14.png" class="img-responsive"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol15.png" class="img-responsive"/></div>
+        </div>
+        <div class="row">
+                <div class="col-lg-4"> <img src="Images/symbol16.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol17.png" class="img-responsive hala"/></div>
+                <div class="col-lg-4"> <img src="Images/symbol18.png" class="img-responsive"/></div>
+        </div>
+       
+</div>
+<div class="shape tool-box text-center">
+        <i class="fa fa-caret-up"></i>
+        <i class="fa fa-circle"></i>
+        <i class="fa fa-stop"></i>
+        <p>Choose Color</p>
+        
+                <div class="row">
+                   <div class="col-lg-4"> <div class="box2" style="background-color:red"></div></div>
+                   <div class="col-lg-4"> <div class="box2" style="background-color:blue"></div></div>
+                   <div class="col-lg-4"> <div class="box2" style="background-color:yellow"></div></div>
+                </div>
+                <div class="row">
+                        <div class="col-lg-4"> <div class="box2" style="background-color:green"></div></div>
+                        <div class="col-lg-4"> <div class="box2" style="background-color:black"></div></div>
+                        <div class="col-lg-4"> <div class="box2" style="background-color:grey"></div></div>
+                     </div>
+                     <div class="row">
+                            <div class="col-lg-4"> <div class="box2" style="background-color:white"></div></div>
+                            <div class="col-lg-4"> <div class="box2" style="background-color:violet"></div></div>
+                            <div class="col-lg-4"> <div class="box2" style="background-color:orange"></div></div>
+                         </div>
+            
+    </div>
+   
+            
+        
+        
+<div class="tools">
+    <button class="btn btn-block change textBut">TEXT</button>
+    <button class="btn btn-block change symbBut">SYMBOL</button>
+    <button class="btn btn-block change shapeBut">SHAPE</button>
+    <div style="height:0px;overflow:hidden">
+            <input type="file" id="fileInput" name="fileInput" />
+         </div>
+    <button type="button"class="btn btn-block change ImgBut" onclick="chooseFile();">Upload Image</button>
+         
+    
+</div>
+</section>
+    </div>
+    
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/fabric.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/myJquery.js"></script>
+</body>
+
+</html>

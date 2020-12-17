@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Supreme;
+    src: url('supreme.otf');
+    font-display: swap;
+}
+
+#supreme-area {
+    font-family: Supreme, Futura, sans-serif;
+    background-color: #d02120;
+    color: white;
+    font-size: 50pt;
+    padding: 0 1.666vh 1.25vh;
+}

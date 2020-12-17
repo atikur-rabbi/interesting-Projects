@@ -1,0 +1,2197 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 4206px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 4206px;
+	 z-index:1;
+} 
+
+ #Rectangle4copy3 
+{ 
+	 left: -1px; 
+	 top: 3471px; 
+	 position: absolute; 
+	 width: 1928px;
+	 height: 129px;
+	 z-index:2;
+} 
+
+ #Rectangle4copy2 
+{ 
+	 left: -1px; 
+	 top: 3483px; 
+	 position: absolute; 
+	 width: 1932px;
+	 height: 724px;
+	 z-index:3;
+} 
+
+ #Shape1copy5 
+{ 
+	 left: 787px; 
+	 top: 3359px; 
+	 position: absolute; 
+	 width: 1046px;
+	 height: 1028px;
+	 z-index:4;
+} 
+
+ #Shape12 
+{ 
+	 left: 1628px; 
+	 top: 4134px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 38px;
+	 z-index:5;
+} 
+
+ #Shape9 
+{ 
+	 left: 1584px; 
+	 top: 4135px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 38px;
+	 z-index:6;
+} 
+
+ #Shape11 
+{ 
+	 left: 1541px; 
+	 top: 4135px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 38px;
+	 z-index:7;
+} 
+
+ #Shape10 
+{ 
+	 left: 1497px; 
+	 top: 4134px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:8;
+} 
+
+ #Shape8 
+{ 
+	 left: 1453px; 
+	 top: 4134px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:9;
+} 
+
+ #Copyright2020crbnInc 
+{ 
+	 left: 255px; 
+	 top: 4144px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 14px;
+	 z-index:10;
+} 
+
+ #Shape13copy22 
+{ 
+	 left: 254px; 
+	 top: 4099px; 
+	 position: absolute; 
+	 width: 1412px;
+	 height: 3px;
+	 z-index:11;
+} 
+
+ #AboutUsCareersContac 
+{ 
+	 left: 1548px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 75px;
+	 z-index:12;
+} 
+
+ #Company 
+{ 
+	 left: 1549px; 
+	 top: 3795px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 15px;
+	 z-index:13;
+} 
+
+ #MarketplacesGigEcono 
+{ 
+	 left: 1350px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 171px;
+	 z-index:14;
+} 
+
+ #Solutions 
+{ 
+	 left: 1350px; 
+	 top: 3794px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 13px;
+	 z-index:15;
+} 
+
+ #BuildwithCarbonCreat 
+{ 
+	 left: 1127px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 78px;
+	 z-index:16;
+} 
+
+ #GetStarted 
+{ 
+	 left: 1127px; 
+	 top: 3795px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 12px;
+	 z-index:17;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 397px; 
+	 top: 4004px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 43px;
+	 z-index:18;
+} 
+
+ #ContactSalescopy 
+{ 
+	 left: 418px; 
+	 top: 4019px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 12px;
+	 z-index:19;
+} 
+
+ #RoundedRectangle1cop_0 
+{ 
+	 left: 254px; 
+	 top: 4004px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 44px;
+	 z-index:20;
+} 
+
+ #GetStartedcopy2 
+{ 
+	 left: 276px; 
+	 top: 4019px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 12px;
+	 z-index:21;
+} 
+
+ #WhyCarbonCollectDisb 
+{ 
+	 left: 945px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 142px;
+	 z-index:22;
+} 
+
+ #Product 
+{ 
+	 left: 946px; 
+	 top: 3795px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:23;
+} 
+
+ #Whenyousubmitapayout 
+{ 
+	 left: 254px; 
+	 top: 3872px; 
+	 position: absolute; 
+	 width: 466px;
+	 height: 86px;
+	 z-index:24;
+} 
+
+ #Shape1copy4 
+{ 
+	 left: 254px; 
+	 top: 3792px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 36px;
+	 z-index:25;
+} 
+
+ #Bg 
+{ 
+	 left: -1px; 
+	 top: 2783px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 771px;
+	 z-index:26;
+} 
+
+ #Rectangle3copy5 
+{ 
+	 left: 269px; 
+	 top: 2880px; 
+	 position: absolute; 
+	 width: 452px;
+	 height: 238px;
+	 z-index:27;
+} 
+
+ #Ellipse13copy15 
+{ 
+	 left: 286px; 
+	 top: 2925px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 150px;
+	 z-index:28;
+} 
+
+ #RoundedRectangle2cop 
+{ 
+	 left: 317px; 
+	 top: 2682px; 
+	 position: absolute; 
+	 width: 807px;
+	 height: 568px;
+	 z-index:29;
+} 
+
+ #Layer31 
+{ 
+	 left: 344px; 
+	 top: 2714px; 
+	 position: absolute; 
+	 width: 755px;
+	 height: 603px;
+	 z-index:30;
+} 
+
+ #ScreenShot20201030at 
+{ 
+	 left: 350px; 
+	 top: 2719px; 
+	 position: absolute; 
+	 width: 738px;
+	 height: 496px;
+	 z-index:31;
+} 
+
+ #Rectangle8copy 
+{ 
+	 left: 251px; 
+	 top: 3211px; 
+	 position: absolute; 
+	 width: 938px;
+	 height: 37px;
+	 z-index:32;
+} 
+
+ #Rectangle8copy2 
+{ 
+	 left: 215px; 
+	 top: 3191px; 
+	 position: absolute; 
+	 width: 1002px;
+	 height: 134px;
+	 z-index:33;
+} 
+
+ #Shape20 
+{ 
+	 left: 619px; 
+	 top: 3209px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 12px;
+	 z-index:34;
+} 
+
+ #Ellipse13 
+{ 
+	 left: 714px; 
+	 top: 2698px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 11px;
+	 z-index:35;
+} 
+
+ #Thedashboardenablesy 
+{ 
+	 left: 1283px; 
+	 top: 3112px; 
+	 position: absolute; 
+	 width: 295px;
+	 height: 112px;
+	 z-index:36;
+} 
+
+ #Managingtransactions 
+{ 
+	 left: 1282px; 
+	 top: 2945px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 118px;
+	 z-index:37;
+} 
+
+ #rigorouscontrol 
+{ 
+	 left: 1283px; 
+	 top: 2905px; 
+	 position: absolute; 
+	 width: 177px;
+	 height: 12px;
+	 z-index:38;
+} 
+
+ #RoundedRectangle2cop_0 
+{ 
+	 left: 254px; 
+	 top: 3383px; 
+	 position: absolute; 
+	 width: 1412px;
+	 height: 314px;
+	 z-index:39;
+} 
+
+ #RoundedRectangle2cop_1 
+{ 
+	 left: 254px; 
+	 top: 3384px; 
+	 position: absolute; 
+	 width: 1412px;
+	 height: 312px;
+	 z-index:40;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 1190px; 
+	 top: 3417px; 
+	 position: absolute; 
+	 width: 508px;
+	 height: 508px;
+	 z-index:41;
+} 
+
+ #RoundedRectangle1cop_1 
+{ 
+	 left: 360px; 
+	 top: 3574px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 44px;
+	 z-index:42;
+} 
+
+ #GetStartedcopy 
+{ 
+	 left: 391px; 
+	 top: 3589px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 12px;
+	 z-index:43;
+} 
+
+ #Endallpaymentsheadac 
+{ 
+	 left: 363px; 
+	 top: 3495px; 
+	 position: absolute; 
+	 width: 758px;
+	 height: 45px;
+	 z-index:44;
+} 
+
+ #Shape13copy12 
+{ 
+	 left: 254px; 
+	 top: 3418px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 4px;
+	 z-index:45;
+} 
+
+ #Shape13copy14 
+{ 
+	 left: 254px; 
+	 top: 3478px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 4px;
+	 z-index:46;
+} 
+
+ #Shape13copy13 
+{ 
+	 left: 254px; 
+	 top: 3448px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 4px;
+	 z-index:47;
+} 
+
+ #Shape13copy15 
+{ 
+	 left: 254px; 
+	 top: 3508px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 4px;
+	 z-index:48;
+} 
+
+ #Shape13copy16 
+{ 
+	 left: 254px; 
+	 top: 3538px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 4px;
+	 z-index:49;
+} 
+
+ #Shape13copy17 
+{ 
+	 left: 254px; 
+	 top: 3568px; 
+	 position: absolute; 
+	 width: 391px;
+	 height: 4px;
+	 z-index:50;
+} 
+
+ #Shape13copy18 
+{ 
+	 left: 254px; 
+	 top: 3598px; 
+	 position: absolute; 
+	 width: 461px;
+	 height: 4px;
+	 z-index:51;
+} 
+
+ #Shape13copy19 
+{ 
+	 left: 254px; 
+	 top: 3628px; 
+	 position: absolute; 
+	 width: 391px;
+	 height: 4px;
+	 z-index:52;
+} 
+
+ #Shape13copy20 
+{ 
+	 left: 254px; 
+	 top: 3659px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 3px;
+	 z-index:53;
+} 
+
+ #Shape13copy21 
+{ 
+	 left: 1555px; 
+	 top: 3661px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 4px;
+	 z-index:54;
+} 
+
+ #Shape13copy21_0 
+{ 
+	 left: 1555px; 
+	 top: 3601px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 4px;
+	 z-index:55;
+} 
+
+ #Shape13copy21_1 
+{ 
+	 left: 1485px; 
+	 top: 3631px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 4px;
+	 z-index:56;
+} 
+
+ #Shape13copy21_2 
+{ 
+	 left: 1415px; 
+	 top: 3571px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 4px;
+	 z-index:57;
+} 
+
+ #Shape13copy21_3 
+{ 
+	 left: 1345px; 
+	 top: 3541px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 4px;
+	 z-index:58;
+} 
+
+ #Shape13copy21_4 
+{ 
+	 left: 1275px; 
+	 top: 3511px; 
+	 position: absolute; 
+	 width: 391px;
+	 height: 4px;
+	 z-index:59;
+} 
+
+ #Shape13copy21_5 
+{ 
+	 left: 1310px; 
+	 top: 3481px; 
+	 position: absolute; 
+	 width: 356px;
+	 height: 4px;
+	 z-index:60;
+} 
+
+ #Shape13copy21_6 
+{ 
+	 left: 1408px; 
+	 top: 3451px; 
+	 position: absolute; 
+	 width: 258px;
+	 height: 4px;
+	 z-index:61;
+} 
+
+ #Shape13copy21_7 
+{ 
+	 left: 1485px; 
+	 top: 3421px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 3px;
+	 z-index:62;
+} 
+
+ #RoundedRectangle2cop_2 
+{ 
+	 left: 1147px; 
+	 top: 2023px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 563px;
+	 z-index:63;
+} 
+
+ #Rectangle5 
+{ 
+	 left: 1215px; 
+	 top: 2038px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 30px;
+	 z-index:64;
+} 
+
+ #Shape6 
+{ 
+	 left: 1401px; 
+	 top: 2517px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 15px;
+	 z-index:65;
+} 
+
+ #Shape6copy3 
+{ 
+	 left: 1435px; 
+	 top: 2517px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:66;
+} 
+
+ #Shape6copy 
+{ 
+	 left: 1420px; 
+	 top: 2512px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:67;
+} 
+
+ #Shape6copy4 
+{ 
+	 left: 1453px; 
+	 top: 2512px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:68;
+} 
+
+ #Shape6copy2 
+{ 
+	 left: 1420px; 
+	 top: 2523px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:69;
+} 
+
+ #Shape6copy5 
+{ 
+	 left: 1453px; 
+	 top: 2523px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:70;
+} 
+
+ #Shape6copy6 
+{ 
+	 left: 1401px; 
+	 top: 2528px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 15px;
+	 z-index:71;
+} 
+
+ #Shape6copy6_0 
+{ 
+	 left: 1435px; 
+	 top: 2528px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:72;
+} 
+
+ #Ellipse3 
+{ 
+	 left: 1427px; 
+	 top: 2520px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:73;
+} 
+
+ #Ellipse3copy2 
+{ 
+	 left: 1459px; 
+	 top: 2520px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 5px;
+	 z-index:74;
+} 
+
+ #Ellipse3copy3 
+{ 
+	 left: 1459px; 
+	 top: 2530px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:75;
+} 
+
+ #Ellipse3copy4 
+{ 
+	 left: 1427px; 
+	 top: 2530px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 6px;
+	 z-index:76;
+} 
+
+ #Ellipse3copy 
+{ 
+	 left: 1443px; 
+	 top: 2525px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 6px;
+	 z-index:77;
+} 
+
+ #RoundedRectangle2 
+{ 
+	 left: 974px; 
+	 top: 2092px; 
+	 position: absolute; 
+	 width: 385px;
+	 height: 423px;
+	 z-index:78;
+} 
+
+ #RoundedRectangle2cop_3 
+{ 
+	 left: 974px; 
+	 top: 2092px; 
+	 position: absolute; 
+	 width: 385px;
+	 height: 69px;
+	 z-index:79;
+} 
+
+ #YouReceivedaPayment 
+{ 
+	 left: 1022px; 
+	 top: 2116px; 
+	 position: absolute; 
+	 width: 248px;
+	 height: 19px;
+	 z-index:80;
+} 
+
+ #Congratulationsonyou 
+{ 
+	 left: 1010px; 
+	 top: 2292px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 89px;
+	 z-index:81;
+} 
+
+ #PaymentprovidedbyCrb 
+{ 
+	 left: 1050px; 
+	 top: 2470px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 13px;
+	 z-index:82;
+} 
+
+ #RoundedRectangle1cop_2 
+{ 
+	 left: 1080px; 
+	 top: 2409px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 44px;
+	 z-index:83;
+} 
+
+ #GetPaid 
+{ 
+	 left: 1112px; 
+	 top: 2425px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 12px;
+	 z-index:84;
+} 
+
+ #Layer6 
+{ 
+	 left: 1103px; 
+	 top: 2179px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 89px;
+	 z-index:85;
+} 
+
+ #RoundedRectangle3 
+{ 
+	 left: 1308px; 
+	 top: 2170px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 315px;
+	 z-index:86;
+} 
+
+ #Whatisyourpreferredp 
+{ 
+	 left: 1355px; 
+	 top: 2206px; 
+	 position: absolute; 
+	 width: 213px;
+	 height: 38px;
+	 z-index:87;
+} 
+
+ #Ellipse5 
+{ 
+	 left: 1337px; 
+	 top: 2377px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 64px;
+	 z-index:88;
+} 
+
+ #Layer38 
+{ 
+	 left: 1350px; 
+	 top: 2391px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 37px;
+	 z-index:89;
+} 
+
+ #Shape7 
+{ 
+	 left: 1318px; 
+	 top: 2351px; 
+	 position: absolute; 
+	 width: 288px;
+	 height: 4px;
+	 z-index:90;
+} 
+
+ #27oftotalamount 
+{ 
+	 left: 1426px; 
+	 top: 2403px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 10px;
+	 z-index:91;
+} 
+
+ #23businessdays 
+{ 
+	 left: 1426px; 
+	 top: 2422px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 13px;
+	 z-index:92;
+} 
+
+ #Ellipse6 
+{ 
+	 left: 1413px; 
+	 top: 2405px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 9px;
+	 z-index:93;
+} 
+
+ #Ellipse6copy 
+{ 
+	 left: 1413px; 
+	 top: 2422px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 10px;
+	 z-index:94;
+} 
+
+ #RoundedRectangle5 
+{ 
+	 left: 1526px; 
+	 top: 2368px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 19px;
+	 z-index:95;
+} 
+
+ #Ellipse5copy2 
+{ 
+	 left: 1337px; 
+	 top: 2266px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 64px;
+	 z-index:96;
+} 
+
+ #Rectangle10 
+{ 
+	 left: 1351px; 
+	 top: 2278px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 36px;
+	 z-index:97;
+} 
+
+ #Free 
+{ 
+	 left: 1427px; 
+	 top: 2293px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 9px;
+	 z-index:98;
+} 
+
+ #710businessdays 
+{ 
+	 left: 1426px; 
+	 top: 2311px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 13px;
+	 z-index:99;
+} 
+
+ #Ellipse6copy2 
+{ 
+	 left: 1413px; 
+	 top: 2293px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 10px;
+	 z-index:100;
+} 
+
+ #Ellipse6copy2_0 
+{ 
+	 left: 1413px; 
+	 top: 2311px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 9px;
+	 z-index:101;
+} 
+
+ #Fastest 
+{ 
+	 left: 1537px; 
+	 top: 2375px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 6px;
+	 z-index:102;
+} 
+
+ #RoundedRectangle5cop 
+{ 
+	 left: 1516px; 
+	 top: 2266px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 19px;
+	 z-index:103;
+} 
+
+ #Cheapest 
+{ 
+	 left: 1527px; 
+	 top: 2272px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 6px;
+	 z-index:104;
+} 
+
+ #Whenyousubmitapayout_0 
+{ 
+	 left: 255px; 
+	 top: 2329px; 
+	 position: absolute; 
+	 width: 538px;
+	 height: 112px;
+	 z-index:105;
+} 
+
+ #Automaticonboardinga 
+{ 
+	 left: 255px; 
+	 top: 2203px; 
+	 position: absolute; 
+	 width: 403px;
+	 height: 81px;
+	 z-index:106;
+} 
+
+ #userfriendly 
+{ 
+	 left: 256px; 
+	 top: 2153px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 12px;
+	 z-index:107;
+} 
+
+ #Rectangle9 
+{ 
+	 left: -1px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 883px;
+	 z-index:108;
+} 
+
+ #Shape1copy6 
+{ 
+	 left: 1389px; 
+	 top: 1005px; 
+	 position: absolute; 
+	 width: 580px;
+	 height: 922px;
+	 z-index:109;
+} 
+
+ #Wehandletherest 
+{ 
+	 left: 1245px; 
+	 top: 1705px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 14px;
+	 z-index:110;
+} 
+
+ #Yourvendorsgetpaidfa 
+{ 
+	 left: 1244px; 
+	 top: 1745px; 
+	 position: absolute; 
+	 width: 342px;
+	 height: 14px;
+	 z-index:111;
+} 
+
+ #Shape14copy4 
+{ 
+	 left: 1214px; 
+	 top: 1631px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 154px;
+	 z-index:112;
+} 
+
+ #Ellipse9copy4 
+{ 
+	 left: 1280px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:113;
+} 
+
+ #Ellipse9copy5 
+{ 
+	 left: 1263px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:114;
+} 
+
+ #Ellipse9copy7 
+{ 
+	 left: 1274px; 
+	 top: 1625px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:115;
+} 
+
+ #RoundedRectangle14 
+{ 
+	 left: 1244px; 
+	 top: 1645px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 30px;
+	 z-index:116;
+} 
+
+ #Multiplepayoutmethod 
+{ 
+	 left: 765px; 
+	 top: 1704px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 19px;
+	 z-index:117;
+} 
+
+ #Weprovidelocalpayout 
+{ 
+	 left: 764px; 
+	 top: 1745px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 39px;
+	 z-index:118;
+} 
+
+ #Shape14copy3 
+{ 
+	 left: 734px; 
+	 top: 1631px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 154px;
+	 z-index:119;
+} 
+
+ #Shape9_0 
+{ 
+	 left: 766px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 15px;
+	 z-index:120;
+} 
+
+ #Shape9copy 
+{ 
+	 left: 784px; 
+	 top: 1652px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 14px;
+	 z-index:121;
+} 
+
+ #Shape9copy2 
+{ 
+	 left: 773px; 
+	 top: 1654px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 18px;
+	 z-index:122;
+} 
+
+ #Shape9copy3 
+{ 
+	 left: 786px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 19px;
+	 z-index:123;
+} 
+
+ #Ellipse9copy2 
+{ 
+	 left: 764px; 
+	 top: 1628px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 47px;
+	 z-index:124;
+} 
+
+ #Ellipse12 
+{ 
+	 left: 778px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 18px;
+	 z-index:125;
+} 
+
+ #Ellipse9copy3 
+{ 
+	 left: 776px; 
+	 top: 1643px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 20px;
+	 z-index:126;
+} 
+
+ #Createbeneficiariesw 
+{ 
+	 left: 285px; 
+	 top: 1704px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 19px;
+	 z-index:127;
+} 
+
+ #Wehandleonboardingan 
+{ 
+	 left: 285px; 
+	 top: 1745px; 
+	 position: absolute; 
+	 width: 298px;
+	 height: 39px;
+	 z-index:128;
+} 
+
+ #Shape14copy2 
+{ 
+	 left: 253px; 
+	 top: 1631px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 154px;
+	 z-index:129;
+} 
+
+ #Shape21 
+{ 
+	 left: 284px; 
+	 top: 1630px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 45px;
+	 z-index:130;
+} 
+
+ #Ellipse7 
+{ 
+	 left: 312px; 
+	 top: 1636px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:131;
+} 
+
+ #layer_132 
+{ 
+	 left: 315px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:132;
+} 
+
+ #Justadd2linesofcodei 
+{ 
+	 left: 1044px; 
+	 top: 1364px; 
+	 position: absolute; 
+	 width: 388px;
+	 height: 78px;
+	 z-index:133;
+} 
+
+ #2linesofcode100marke 
+{ 
+	 left: 1044px; 
+	 top: 1239px; 
+	 position: absolute; 
+	 width: 337px;
+	 height: 74px;
+	 z-index:134;
+} 
+
+ #DEveloperfriendly 
+{ 
+	 left: 1045px; 
+	 top: 1187px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 12px;
+	 z-index:135;
+} 
+
+ #Shape6_0 
+{ 
+	 left: 809px; 
+	 top: 1517px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 15px;
+	 z-index:136;
+} 
+
+ #Shape6copy3_0 
+{ 
+	 left: 843px; 
+	 top: 1517px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:137;
+} 
+
+ #Shape6copy_0 
+{ 
+	 left: 828px; 
+	 top: 1512px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:138;
+} 
+
+ #Shape6copy4_0 
+{ 
+	 left: 861px; 
+	 top: 1512px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:139;
+} 
+
+ #Shape6copy2_0 
+{ 
+	 left: 828px; 
+	 top: 1523px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:140;
+} 
+
+ #Shape6copy5_0 
+{ 
+	 left: 861px; 
+	 top: 1523px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:141;
+} 
+
+ #Shape6copy6_1 
+{ 
+	 left: 809px; 
+	 top: 1528px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 15px;
+	 z-index:142;
+} 
+
+ #Shape6copy6_2 
+{ 
+	 left: 843px; 
+	 top: 1528px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:143;
+} 
+
+ #Ellipse3_0 
+{ 
+	 left: 835px; 
+	 top: 1520px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:144;
+} 
+
+ #Ellipse3copy2_0 
+{ 
+	 left: 867px; 
+	 top: 1520px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 5px;
+	 z-index:145;
+} 
+
+ #Ellipse3copy3_0 
+{ 
+	 left: 867px; 
+	 top: 1530px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:146;
+} 
+
+ #Ellipse3copy4_0 
+{ 
+	 left: 835px; 
+	 top: 1530px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 6px;
+	 z-index:147;
+} 
+
+ #Ellipse3copy_0 
+{ 
+	 left: 851px; 
+	 top: 1525px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 6px;
+	 z-index:148;
+} 
+
+ #Rectangle3copy4 
+{ 
+	 left: 854px; 
+	 top: 1197px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 238px;
+	 z-index:149;
+} 
+
+ #Ellipse13copy16 
+{ 
+	 left: 911px; 
+	 top: 1242px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 150px;
+	 z-index:150;
+} 
+
+ #Rectangle3copy2 
+{ 
+	 left: 254px; 
+	 top: 1253px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 278px;
+	 z-index:151;
+} 
+
+ #Shape13 
+{ 
+	 left: 270px; 
+	 top: 1275px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 3px;
+	 z-index:152;
+} 
+
+ #Shape13copy 
+{ 
+	 left: 281px; 
+	 top: 1295px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 4px;
+	 z-index:153;
+} 
+
+ #Shape13copy2 
+{ 
+	 left: 270px; 
+	 top: 1317px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 4px;
+	 z-index:154;
+} 
+
+ #Shape13copy3 
+{ 
+	 left: 281px; 
+	 top: 1338px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 3px;
+	 z-index:155;
+} 
+
+ #Shape13copy4 
+{ 
+	 left: 270px; 
+	 top: 1358px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 4px;
+	 z-index:156;
+} 
+
+ #Shape13copy5 
+{ 
+	 left: 281px; 
+	 top: 1379px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 4px;
+	 z-index:157;
+} 
+
+ #Shape13copy6 
+{ 
+	 left: 270px; 
+	 top: 1401px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 4px;
+	 z-index:158;
+} 
+
+ #Shape13copy7 
+{ 
+	 left: 281px; 
+	 top: 1422px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 4px;
+	 z-index:159;
+} 
+
+ #Shape13copy8 
+{ 
+	 left: 270px; 
+	 top: 1443px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 3px;
+	 z-index:160;
+} 
+
+ #Shape13copy9 
+{ 
+	 left: 281px; 
+	 top: 1464px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 4px;
+	 z-index:161;
+} 
+
+ #Shape13copy10 
+{ 
+	 left: 270px; 
+	 top: 1484px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 4px;
+	 z-index:162;
+} 
+
+ #Shape13copy11 
+{ 
+	 left: 281px; 
+	 top: 1505px; 
+	 position: absolute; 
+	 width: 231px;
+	 height: 4px;
+	 z-index:163;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 304px; 
+	 top: 1142px; 
+	 position: absolute; 
+	 width: 592px;
+	 height: 349px;
+	 z-index:164;
+} 
+
+ #Layer32 
+{ 
+	 left: 313px; 
+	 top: 1147px; 
+	 position: absolute; 
+	 width: 539px;
+	 height: 324px;
+	 z-index:165;
+} 
+
+ #Ellipse4 
+{ 
+	 left: 316px; 
+	 top: 1150px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 16px;
+	 z-index:166;
+} 
+
+ #Ellipse4copy 
+{ 
+	 left: 336px; 
+	 top: 1150px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:167;
+} 
+
+ #Ellipse4copy2 
+{ 
+	 left: 357px; 
+	 top: 1150px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 16px;
+	 z-index:168;
+} 
+
+ #Layer37 
+{ 
+	 left: 1468px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 27px;
+	 z-index:169;
+} 
+
+ #Group26 
+{ 
+	 left: 1179px; 
+	 top: 870px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:170;
+} 
+
+ #Layer36 
+{ 
+	 left: 749px; 
+	 top: 878px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 40px;
+	 z-index:171;
+} 
+
+ #Layer33 
+{ 
+	 left: 380px; 
+	 top: 881px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 34px;
+	 z-index:172;
+} 
+
+ #Rectangle7 
+{ 
+	 left: -8px; 
+	 top: -9px; 
+	 position: absolute; 
+	 width: 1942px;
+	 height: 841px;
+	 z-index:173;
+} 
+
+ #Rectangle7copy 
+{ 
+	 left: -8px; 
+	 top: -9px; 
+	 position: absolute; 
+	 width: 1942px;
+	 height: 841px;
+	 z-index:174;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 947px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 943px;
+	 height: 944px;
+	 z-index:175;
+} 
+
+ #Rectangle6copy2 
+{ 
+	 left: 1585px; 
+	 top: 324px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 92px;
+	 z-index:176;
+} 
+
+ #Ellipse1copy15 
+{ 
+	 left: 1564px; 
+	 top: 409px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:177;
+} 
+
+ #Ellipse1copy15_0 
+{ 
+	 left: 1568px; 
+	 top: 414px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 14px;
+	 z-index:178;
+} 
+
+ #PaymentReceived 
+{ 
+	 left: 1626px; 
+	 top: 341px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 13px;
+	 z-index:179;
+} 
+
+ #layer_7500 
+{ 
+	 left: 1643px; 
+	 top: 358px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 22px;
+	 z-index:180;
+} 
+
+ #Rectangle6copy3 
+{ 
+	 left: 1453px; 
+	 top: 106px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 92px;
+	 z-index:181;
+} 
+
+ #Ellipse1copy16 
+{ 
+	 left: 1437px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:182;
+} 
+
+ #Ellipse1copy16_0 
+{ 
+	 left: 1440px; 
+	 top: 199px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:183;
+} 
+
+ #PaymentReceivedcopy2 
+{ 
+	 left: 1495px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 13px;
+	 z-index:184;
+} 
+
+ #layer_6320 
+{ 
+	 left: 1513px; 
+	 top: 142px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 22px;
+	 z-index:185;
+} 
+
+ #Rectangle6 
+{ 
+	 left: 1076px; 
+	 top: 98px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 91px;
+	 z-index:186;
+} 
+
+ #Ellipse1copy7 
+{ 
+	 left: 1256px; 
+	 top: 189px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 25px;
+	 z-index:187;
+} 
+
+ #Ellipse1copy 
+{ 
+	 left: 1260px; 
+	 top: 194px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 15px;
+	 z-index:188;
+} 
+
+ #PaymentReceived_0 
+{ 
+	 left: 1096px; 
+	 top: 114px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 13px;
+	 z-index:189;
+} 
+
+ #layer_1540 
+{ 
+	 left: 1114px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 22px;
+	 z-index:190;
+} 
+
+ #Rectangle6copy 
+{ 
+	 left: 906px; 
+	 top: 440px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 92px;
+	 z-index:191;
+} 
+
+ #Ellipse1copy14 
+{ 
+	 left: 1084px; 
+	 top: 530px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 18px;
+	 z-index:192;
+} 
+
+ #Ellipse1copy14_0 
+{ 
+	 left: 1087px; 
+	 top: 533px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:193;
+} 
+
+ #PaymentReceived_1 
+{ 
+	 left: 926px; 
+	 top: 458px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 13px;
+	 z-index:194;
+} 
+
+ #layer_2500 
+{ 
+	 left: 942px; 
+	 top: 475px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 22px;
+	 z-index:195;
+} 
+
+ #RoundedRectangle1cop_3 
+{ 
+	 left: 397px; 
+	 top: 529px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 44px;
+	 z-index:196;
+} 
+
+ #ContactSales 
+{ 
+	 left: 418px; 
+	 top: 544px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 12px;
+	 z-index:197;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 254px; 
+	 top: 529px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 44px;
+	 z-index:198;
+} 
+
+ #GetStarted_0 
+{ 
+	 left: 276px; 
+	 top: 544px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 12px;
+	 z-index:199;
+} 
+
+ #Payvendorsacrossbord 
+{ 
+	 left: 257px; 
+	 top: 463px; 
+	 position: absolute; 
+	 width: 530px;
+	 height: 23px;
+	 z-index:200;
+} 
+
+ #Globalpayoutsunlocke 
+{ 
+	 left: 255px; 
+	 top: 269px; 
+	 position: absolute; 
+	 width: 530px;
+	 height: 143px;
+	 z-index:201;
+} 
+
+ #carbonpayment 
+{ 
+	 left: 255px; 
+	 top: 205px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 12px;
+	 z-index:202;
+} 
+
+ #RoundedRectangle7 
+{ 
+	 left: 1215px; 
+	 top: 227px; 
+	 position: absolute; 
+	 width: 269px;
+	 height: 535px;
+	 z-index:203;
+} 
+
+ #RoundedRectangle7cop 
+{ 
+	 left: 1224px; 
+	 top: 235px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 519px;
+	 z-index:204;
+} 
+
+ #RoundedRectangle7cop_0 
+{ 
+	 left: 1268px; 
+	 top: 235px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 24px;
+	 z-index:205;
+} 
+
+ #RoundedRectangle8 
+{ 
+	 left: 1229px; 
+	 top: 608px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 142px;
+	 z-index:206;
+} 
+
+ #PaymentReceived_2 
+{ 
+	 left: 1284px; 
+	 top: 438px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 48px;
+	 z-index:207;
+} 
+
+ #Ellipse11 
+{ 
+	 left: 1319px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 63px;
+	 z-index:208;
+} 
+
+ #Shape15 
+{ 
+	 left: 1337px; 
+	 top: 379px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 20px;
+	 z-index:209;
+} 
+
+ #2300Hasbeencreditedt 
+{ 
+	 left: 1248px; 
+	 top: 631px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 34px;
+	 z-index:210;
+} 
+
+ #layer_24534 
+{ 
+	 left: 1328px; 
+	 top: 705px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 16px;
+	 z-index:211;
+} 
+
+ #Totalbalance 
+{ 
+	 left: 1249px; 
+	 top: 711px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 8px;
+	 z-index:212;
+} 
+
+ #Shape16 
+{ 
+	 left: 1239px; 
+	 top: 686px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 4px;
+	 z-index:213;
+} 
+
+ #RoundedRectangle12 
+{ 
+	 left: 1566px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 40px;
+	 z-index:214;
+} 
+
+ #Shape18 
+{ 
+	 left: 1643px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 13px;
+	 z-index:215;
+} 
+
+ #Signin 
+{ 
+	 left: 1583px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 14px;
+	 z-index:216;
+} 
+
+ #BlogDeveloperAPI 
+{ 
+	 left: 1346px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 14px;
+	 z-index:217;
+} 
+
+ #Shape1 
+{ 
+	 left: 254px; 
+	 top: 24px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 35px;
+	 z-index:218;
+} 
