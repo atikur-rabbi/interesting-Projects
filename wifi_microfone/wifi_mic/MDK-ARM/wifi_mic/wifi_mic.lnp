@@ -1,0 +1,19 @@
+--cpu Cortex-M3
+"wifi_mic\g711.o"
+"wifi_mic\main.o"
+"wifi_mic\stm32f1xx_it.o"
+"wifi_mic\stm32f1xx_ll_gpio.o"
+"wifi_mic\stm32f1xx_ll_adc.o"
+"wifi_mic\stm32f1xx_ll_dma.o"
+"wifi_mic\stm32f1xx_ll_pwr.o"
+"wifi_mic\stm32f1xx_ll_exti.o"
+"wifi_mic\stm32f1xx_ll_tim.o"
+"wifi_mic\stm32f1xx_ll_usart.o"
+"wifi_mic\stm32f1xx_ll_rcc.o"
+"wifi_mic\stm32f1xx_ll_utils.o"
+"wifi_mic\startup_stm32f103xb.o"
+"wifi_mic\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "wifi_mic\wifi_mic.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "wifi_mic.map" -o wifi_mic\wifi_mic.axf
